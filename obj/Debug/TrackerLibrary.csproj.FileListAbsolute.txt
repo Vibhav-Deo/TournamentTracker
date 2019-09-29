@@ -1,0 +1,8 @@
+C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\Dapper.dll
+C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\Dapper.xml
+C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
