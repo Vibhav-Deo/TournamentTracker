@@ -6,3 +6,4 @@ C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.pdb
 C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\Dapper.dll
 C:\Users\vibha\source\repos\TrackerClassLibrary\bin\Debug\Dapper.xml
 C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\vibha\source\repos\TrackerClassLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
